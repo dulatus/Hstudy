@@ -1,0 +1,7 @@
+PROJECT MARANTA.KZ(EXAMPLE3)
+
+THREE MAIN PROBLEMS 
+1. Theres are no names of students who developed them.
+2. In all pages they didn't describe the action mechanisms  or mark them which makes the screen appear.
+3. On screen "Home page for users from Turkey" and screen  "Home page for users from Kazakhstan" there is a button called "Archieve",
+which has description but has no screen related to this button's action(like , where it leads).
